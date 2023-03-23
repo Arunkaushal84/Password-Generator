@@ -25,11 +25,23 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page  
 
 
+
+
+
+
+
 DEPLOYED LINK
 https://arunkaushal84.github.io/Password-Generator/
 
 GITHUB LINK
 https://github.com/Arunkaushal84/Password-Generator
+
+
+
+
+
+
+
 
 
 
