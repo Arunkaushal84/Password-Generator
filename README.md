@@ -26,3 +26,9 @@ THEN the password is either displayed in an alert or written to the page
 
 
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/122054710/227266486-fa237f83-cc0b-4e09-b437-5b9ae06072af.png">
+
+
+
+
+DEPLOYED LINK
+https://arunkaushal84.github.io/Password-Generator/
