@@ -51,4 +51,9 @@ https://github.com/Arunkaushal84/Password-Generator
 
 
 
+DEPLOYED LINK
+https://arunkaushal84.github.io/Password-Generator/
+
+GITHUB LINK
+https://github.com/Arunkaushal84/Password-Generator  
 
